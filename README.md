@@ -1,33 +1,42 @@
-# Portfolio
-#  Hi, I'm Tuta Lihle
+TUTA LIHLE
+Web Developer | UI/UX Designer
+Cape Town, South Africa
+073 1053 517 | 222867051@mycput.ac.za
+LinkedIn | GitHub
 
-Web Developer |  UI/UX Designer  
-📍 Cape Town, South Africa  
-📧 222867051@mycput.ac.za 
+Profile
+I am a dedicated ICT: Multimedia Applications student at CPUT currently seeking a Work Integrated Learning (WIL) opportunity.
+I enjoy creating websites and digital experiences that are both functional and visually appealing. Through my studies and additional training, I have developed practical skills in web development and UI/UX design, and I am always eager to learn and improve.
 
- [LinkedIn](https://www.linkedin.com/in/lihle-tuta) •  [GitHub](https://github.com/Lihle2130)
+Skills
+Programming & Web Technologies:
 
----
+HTML5, CSS3, JavaScript
+React, Node.js, Python
+Design & Prototyping:
 
-##  About Me
-I am an ICT: Multimedia Applications student at CPUT, passionate about building modern, responsive web applications and designing clean user experiences.  
+Figma (wireframing and prototyping)
+Responsive Design, UI/UX Principles
+Database:
 
-I enjoy turning ideas into real digital experiences using creative design and clean code.
+SQL (Beginner)
+Education
+CAPE PENINSULA UNIVERSITY OF TECHNOLOGY – Diploma in ICT: Multimedia Applications
+2024 – Present
 
----
+Currently completing WIL required for qualification
+LOYISO SENIOR SEC – Grade 12
+2017 – 2021
 
-##  Mock Interview
-My mock interview is on a separate page to keep this README clean.
+Projects Experience
+Designed and developed responsive websites using HTML5 and CSS3, ensuring mobile-friendly and user-centered layouts.
+Built interactive web applications using JavaScript and React, implementing dynamic components and state management.
+Created wireframes and interactive prototypes using Figma, applying UI/UX principles to enhance usability and visual design.
+Applied responsive design techniques and modern web standards to improve accessibility and performance.
+Collaborated on group projects, met deadlines, and presented technical solutions confidently.
+References
+Meagan Hamman – Lecturer
+021 460 3752 | ✉ Hammanm@cput.ac.za
 
-👉 [Watch my mock interview](INTERVIEW.md)
-
----
-
-## Connect With Me
-- 📧 Email: 222867051@mycput.ac  
-- 🔗 LinkedIn: https://www.linkedin.com/in/lihle-tuta  
--  GitHub: https://github.com/Lihle2130  
-
----
-
- *Thanks for visiting my profile!*
+Itumeleng Maine – Lecturer
+060 581 7615 | ✉ mainei@cput.ac.za
