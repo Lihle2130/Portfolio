@@ -51,7 +51,7 @@ I enjoy creating websites and digital experiences that are both functional and v
 ## References
 
 **Meagan Hamman** – Lecturer  
- 083 381 9056 | ✉ Hammanm@cput.ac.za  
+ 021 460 3752 | ✉ Hammanm@cput.ac.za  
 
 **Itumeleng Maine** – Lecturer  
  060 581 7615 | ✉ mainei@cput.ac.za  
