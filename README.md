@@ -69,7 +69,7 @@ mainei@cput.ac.za
 ---
 ## 🎥 Mock Interview
 
-📌 *Click below to watch my mock interview*
+ *Click below to watch my mock interview*
 
 [![Mock Interview](https://img.youtube.com/vi/AQp3JTcFhWs/0.jpg)](https://youtu.be/AQp3JTcFhWs)
 
