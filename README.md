@@ -3,7 +3,7 @@
 Cape Town, South Africa  
 073 1053 517  
 222867051@mycput.ac.za  
-LinkedIn | GitHub  
+LinkedIn www.linkedin.com/in/lihle-tuta | GitHub  https://github.com/Lihle2130
 
 ---
 
@@ -75,7 +75,5 @@ mainei@cput.ac.za
 ### About This Interview
 This mock interview demonstrates my communication skills, confidence, and ability to answer common technical and behavioral questions.
 
----
 
-[Back to Main Page]
 
