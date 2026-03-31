@@ -1,7 +1,7 @@
 # TUTA LIHLE
 **Web Developer | UI/UX Designer**  
 Cape Town, South Africa  
- 073 1053 517 |  222867051@mycput.ac  
+ 073 1053 517 |  222867051@mycput.ac.za  
 [LinkedIn](https://www.linkedin.com/in/lihle-tuta) | [GitHub](https://github.com/Lihle2130)
 
 ---
