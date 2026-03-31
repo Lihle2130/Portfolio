@@ -3,7 +3,7 @@
 
 Web Developer |  UI/UX Designer  
 📍 Cape Town, South Africa  
-📧 222867051@mycput.ac  
+📧 222867051@mycput.ac.za 
 
  [LinkedIn](https://www.linkedin.com/in/lihle-tuta) •  [GitHub](https://github.com/Lihle2130)
 
