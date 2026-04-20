@@ -73,5 +73,55 @@ mainei@cput.ac.za
 
 [![Mock Interview](https://img.youtube.com/vi/AQp3JTcFhWs/0.jpg)](https://youtu.be/AQp3JTcFhWs)
 
+---
+
+# Reflection: Learning Markdown (STAR)
+
+## Situation
+I required to build a digital portfolio using GitHub and Markdown.
+
+## Task
+My task was to learn how Markdown works and present myself professionally online.
+
+## Action
+I practiced headings, spacing, links, lists, and content structure until I understood how to make the page clean and readable.
+
+## Result
+I managed to create a portfolio that represents me professionally while learning an important developer skill.
+
+---
+
+# Reflection: Mock Interview (STAR)
+
+## Situation
+I had to prepare for a mock interview.
+
+## Task
+The goal was to answer questions professionally and build confidence.
+
+## Action
+I practiced common interview questions, prepared my appearance, and worked on speaking clearly.
+
+## Result
+I became more confident and better prepared for future real interviews.
+
+---
+
+# Reflection: GitHub Pages (STAR)
+
+## Situation
+I needed to publish my portfolio online.
+
+## Task
+I had to learn how deployment works using GitHub Pages.
+
+## Action
+I uploaded my files, configured GitHub Pages, and tested the final live version.
+
+## Result
+I successfully published my own website and learned a valuable real-world skill.
+
+---
+
 
 
