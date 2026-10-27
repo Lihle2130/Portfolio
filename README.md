@@ -831,20 +831,88 @@ Applied task prioritization and Agile planning principles.
 
 ---
 
-# Evidence
+## Evidence
 
-The following evidence supports my Industry Placement activities:
+The screenshots and artefacts included below provide evidence of my contribution to the Motivity SharePoint Project during my Industry Placement.
 
-- Trello Product Backlog
-- Trello Sprint Backlog
-- Agile Logbooks
-- SharePoint Screenshots
-- SharePoint Page Development
-- Navigation Structures
-- Device Hand-In Activities
-- Device Setup Activities
-- Technical Support Activities
-- Project Documentation
+Due to company confidentiality policies and information security requirements, I am unable to publicly share the complete SharePoint intranet, internal documentation, device management records, employee information, support tickets, workflows, technical configurations and other organization-specific systems. The evidence presented below has been selected to demonstrate my contribution while protecting confidential business information.
+
+---
+
+### Agile Project Management Evidence
+
+#### Trello Board
+
+images/motivity sharepoint project Trello.jpg
+
+The Trello board was used to implement Agile project management practices throughout the SharePoint project. The board contains Product Backlog items, Sprint Backlogs, sprint planning activities, task tracking and project progress monitoring.
+
+The board demonstrates:
+
+- Agile planning
+- Product Backlog management
+- Sprint planning
+- Task allocation
+- Progress tracking
+- Documentation management
+
+---
+
+### SharePoint Development Evidence
+
+#### About Us Page
+
+images/About us page.png
+
+This SharePoint page demonstrates my involvement in developing and organizing intranet content. My contribution included creating page layouts, organizing content, integrating navigation structures and preparing pages for publication.
+
+---
+
+#### Company Opportunities Page
+
+images/Company opportunities page.png
+
+This page demonstrates my contribution to creating employee-focused content within SharePoint. The page was developed to provide users with structured access to employment opportunities and company information.
+
+Activities included:
+
+- Page configuration
+- Content organization
+- Layout design
+- Navigation integration
+- Publishing activities
+
+---
+
+#### Motivity Clients Page
+
+images/Motivity clients Page.png
+
+This page demonstrates my involvement in developing content pages and supporting information architecture within the SharePoint environment. The objective was to improve information accessibility and user navigation.
+
+---
+
+### Device Management System Evidence
+
+images/device-management-system.png
+
+This screenshot demonstrates one of the systems used during device hand-in and asset management activities. As part of my Industry Placement, I assisted with device processing, asset verification, record updates and device preparation activities.
+
+The system was used to:
+
+- Track devices
+- Update asset records
+- Verify hand-ins
+- Support device management processes
+- Maintain accurate equipment information
+
+Specific company information, user information and confidential records have been excluded from this portfolio in accordance with company policy.
+
+---
+
+### Confidentiality Statement
+
+This portfolio contains only approved project evidence. Internal company information, employee information, confidential documentation, device records, technical support data and restricted SharePoint content have been omitted in accordance with company confidentiality and information security policies. The evidence provided is intended to demonstrate my contribution to the project without exposing sensitive organizational information.
 
 ---
 
