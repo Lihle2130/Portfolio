@@ -839,11 +839,11 @@ Due to company confidentiality policies and information security requirements, I
 
 ---
 
-### Agile Project Management Evidence
+### Agile Evidence
 
 #### Trello Board
 
-images/motivity sharepoint project Trello.jpg
+mages/motivity%20sharepoint%20project%20Trello.jpg
 
 The Trello board was used to implement Agile project management practices throughout the SharePoint project. The board contains Product Backlog items, Sprint Backlogs, sprint planning activities, task tracking and project progress monitoring.
 
