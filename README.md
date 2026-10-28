@@ -481,15 +481,15 @@ I assisted with refining Product Backlog items, organizing sprint activities and
 The UniMarket project was successfully completed and demonstrated. Through this project I gained practical experience in Agile methodologies, sprint planning, backlog management, user interface development and software testing. The project strengthened my communication, teamwork and presentation skills while improving my confidence when working on technology projects and presenting solutions to stakeholders.
 
 
-# Industry Placement Project (October 2026 – Present)
+# Industry Placement Project (September 2026 – Present)
 
 ## Company
 
-Motivity leading ICT enemblement
+Motivity — ICT enablement
 
 ## Position
 
- Intern
+Intern
 
 ## Project
 
@@ -499,11 +499,11 @@ Motivity SharePoint Implementation Project
 
 ## Project Overview
 
-I started my Industry Placement at Motivity on 1 October 2026. At the time, the SharePoint project was still in its early stages. Working alongside Nkamogeleng Mathabatha and under the project leadership of Mthokozisi Biya, I actively participated in the planning, design and implementation of the SharePoint environment.
+I started my Industry Placement at Motivity on 29 September 2026. At the time, the SharePoint project was still in its early stages. Working alongside Nkamogeleng Mathabatha and under the project leadership of Mthokozisi Biya, I participated in the planning, design and implementation of the SharePoint environment.
 
-The project focused on creating a centralized platform for document management, departmental communication, information sharing and collaboration. My role involved creating SharePoint pages, assisting with site navigation, helping organize content structures, supporting testing activities and maintaining project documentation.
+The project focuses on creating a centralized platform for document management, departmental communication, information sharing and collaboration. My role involves creating SharePoint pages, assisting with site navigation, organizing content structures, supporting testing activities and maintaining project documentation.
 
-In addition to SharePoint development activities, I also participated in ICT operational support including device hand-ins, device configuration, asset management and technical support activities.
+In addition to SharePoint development activities, I also participate in ICT operational support, including device hand-ins, device configuration, asset management and technical support activities.
 
 ---
 
@@ -523,18 +523,18 @@ To create a user-friendly and well-organized SharePoint platform that supports e
 - Create effective navigation structures.
 - Improve information accessibility.
 - Support departmental communication.
-- Assist with user-centered design.
+- Assist with user-centred design.
 - Support ICT operational activities.
 - Apply Agile methodologies to project work.
 - Maintain project documentation.
 
-## Scrum Master
+## Scrum Master / Project Lead
 
-Mthokozi Biya
+Mthokozisi Biya
 
 ## Team Members
 
-- Mthokozi Biya
+- Mthokozisi Biya
 - Nkamogeleng Mathabatha
 - Lihle Tuta
 
@@ -543,7 +543,7 @@ Mthokozi Biya
 - Collaboration
 - Accountability
 - Professionalism
-- Continuous Improvement
+- Continuous improvement
 - Quality
 - Communication
 
@@ -552,15 +552,15 @@ Mthokozi Biya
 - Microsoft Teams
 - Email
 - Trello
-- Team Meetings
-- Technical Support Calls
-- Project Reviews
+- Team meetings
+- Technical support calls
+- Project reviews
 
 ---
 
 # My Contribution
 
-Throughout the project I actively contributed to several areas of development and support.
+Throughout the project, I have contributed to several areas of development and support.
 
 ### SharePoint Development
 
@@ -575,7 +575,7 @@ Throughout the project I actively contributed to several areas of development an
 
 ### Device Management Activities
 
-For several working days I assisted with:
+For several working days, I assisted with:
 
 - Device hand-ins.
 - Asset verification.
@@ -600,7 +600,7 @@ I also participated in:
 
 # User Stories and Tasks
 
-## User Story 1
+## User Story 1: SharePoint Information Access
 
 **As an employee, I want an organized SharePoint site so that I can access company information efficiently.**
 
@@ -613,7 +613,7 @@ I also participated in:
 
 ---
 
-## User Story 2
+## User Story 2: Site Navigation
 
 **As an employee, I want clear site navigation so that I can easily locate information.**
 
@@ -626,7 +626,7 @@ I also participated in:
 
 ---
 
-## User Story 3
+## User Story 3: Department Information
 
 **As a department manager, I want department information grouped logically so that employees can quickly access relevant resources.**
 
@@ -639,7 +639,7 @@ I also participated in:
 
 ---
 
-## User Story 4
+## User Story 4: Device Tracking
 
 **As an ICT technician, I want accurate device tracking so that assets can be managed effectively.**
 
@@ -652,7 +652,7 @@ I also participated in:
 
 ---
 
-## User Story 5
+## User Story 5: Technical Support Documentation
 
 **As an ICT administrator, I want support activities documented so that technical issues and resolutions can be tracked.**
 
@@ -667,48 +667,56 @@ I also participated in:
 
 # Product Backlog
 
-## High Priority
+The following is the complete list of 26 items recorded in the Motivity SharePoint Project Trello Product Backlog. These are planned or tracked areas of work; their presence in the backlog does not mean that they have all been completed.
 
-- SharePoint Page Creation
-- Navigation Development
-- Information Architecture
-- Department Pages
-- Content Management
-- User Access Planning
-
-## Medium Priority
-
-- User Testing
-- Metadata Planning
-- Site Improvements
-- Documentation Updates
-
-## Low Priority
-
-- Future Enhancements
-- Training Materials
-- Additional Site Features
+1. SharePoint Page Creation
+2. Navigation Development
+3. Information Architecture
+4. Department Pages
+5. Content Management
+6. User Access Planning
+7. User Testing
+8. Metadata Planning
+9. Site Improvements
+10. Documentation Updates
+11. Future Enhancements
+12. Training Materials
+13. Additional Site Features
+14. Homepage and landing page design
+15. Department page requirements
+16. Content inventory and page mapping
+17. Navigation labels and terminology
+18. SharePoint permissions review
+19. Responsive layout review
+20. Web part and page component review
+21. Search and content discovery
+22. Document library structure
+23. Content ownership and review cycle
+24. Accessibility and readability review
+25. Feedback collection and issue log
+26. Project handover and maintenance plan
 
 ---
 
 # Sprint Backlog
 
-## Sprint 1
+The sprint sections below reflect the task names and list groupings shown on the Trello board. Sprint status is recorded as displayed on the board; being placed in a list named “Done” is not, by itself, treated as proof of completion when the card is not marked complete.
+
+## Sprint 1 — Done
 
 ### Goal
 
-Establish the SharePoint foundation and structure.
+Establish the SharePoint foundation, project scope and initial information architecture.
 
-### Tasks
+### Tasks marked complete on Trello
 
-- Site planning.
-- Navigation planning.
-- Page structure development.
-- Requirements gathering.
+- Requirements gathering and project scope.
+- Initial SharePoint structure and page layout.
+- Navigation and information architecture planning.
 
-### Outcome
+### Status
 
-Successfully established the initial SharePoint structure and project requirements.
+These three Sprint 1 tasks are marked complete on the current Trello board.
 
 ---
 
@@ -716,18 +724,23 @@ Successfully established the initial SharePoint structure and project requiremen
 
 ### Goal
 
-Develop content and improve user accessibility.
+Develop SharePoint content and improve user accessibility.
 
-### Tasks
+### Cards in the “Done” list
 
-- Create pages.
-- Organize content.
-- Test functionality.
-- Review user experience.
+- Create SharePoint pages.
+- Organize content structures.
+- Implement initial navigation and page links.
 
-### Outcome
+These cards appear in the Sprint 2 “Done” list, but they are not marked complete on the board. Their list placement is recorded here without claiming verified completion.
 
-Successfully developed content structures and implemented user-focused navigation improvements.
+### In Progress
+
+- Review user experience and test page functionality.
+
+### Current focus
+
+Continue reviewing the user experience and testing page functionality as the sprint progresses.
 
 ---
 
@@ -735,22 +748,85 @@ Successfully developed content structures and implemented user-focused navigatio
 
 ### Goal
 
-Improve functionality and maintain documentation.
+Validate requirements, review metadata and content findability, and maintain project documentation.
+
+### In Progress
+
+- Validate requirements against the current intranet.
+- Metadata and content findability review.
+- Update project documentation and evidence log.
+
+### To Do
+
+- Prioritize usability fixes.
+- Department page requirements.
+- Content inventory and page mapping.
+- Navigation labels and terminology.
+- SharePoint permissions review.
+- Feedback collection and issue log.
+- Homepage and landing page design.
+
+### Current focus
+
+The board identifies requirement validation, metadata and content findability, and documentation updates as in progress. The remaining tasks are listed as to do.
+
+---
+
+## Sprint 4 — To Do
+
+### Goal
+
+Improve navigation, content structure, accessibility and the overall SharePoint user experience.
 
 ### Tasks
 
-- Conduct testing.
-- Update documentation.
-- Validate requirements.
-- Improve usability.
+- Refine metadata and content rules.
+- Improve navigation and department pages.
+- Accessibility, links, and cross-page quality check.
+- Responsive layout review.
+- Web part and page component review.
+- Search and content discovery.
+- Document library structure.
+- Content ownership and review cycle.
+- Accessibility and readability review.
 
-### Outcome
+### Current status
 
-Improved SharePoint functionality and maintained project documentation.
+These tasks are listed as to do on the Trello board.
+
+---
+
+## Sprint 5 — To Do
+
+### Goal
+
+Prepare the project for final testing, handover and close-out.
+
+### Tasks
+
+- Final testing and defect fixes.
+- Prepare handover and user guidance.
+- Final documentation and evidence pack.
+- Mentor review and project close-out.
+- Project handover and maintenance plan.
+
+### Current status
+
+These tasks are listed as to do on the Trello board.
+
+---
+
+## Sprint Tracking Notes
+
+The Product Backlog represents the overall planned work, while the Sprint Backlog records work grouped into individual sprints. Some sprint tasks have titles similar to Product Backlog items because broader backlog items may be represented by more specific sprint activities.
+
+Sprint statuses can change as work progresses. This README should be updated when the Trello board changes and when there is evidence to support a change in completion status.
 
 ---
 
 # Agile Logbook Summary
+
+The following logbook summarizes the activities, challenges and solutions recorded during my placement. These are personal activity summaries and should be supported by dated records or approved evidence where available.
 
 ## Week 1
 
@@ -831,88 +907,90 @@ Applied task prioritization and Agile planning principles.
 
 ---
 
-## Evidence
+# Evidence
 
-The screenshots and artefacts included below provide evidence of my contribution to the Motivity SharePoint Project during my Industry Placement.
+The screenshots and artefacts referenced below are intended to demonstrate my contribution to the Motivity SharePoint Project during my Industry Placement.
 
-Due to company confidentiality policies and information security requirements, I am unable to publicly share the complete SharePoint intranet, internal documentation, device management records, employee information, support tickets, workflows, technical configurations and other organization-specific systems. The evidence presented below has been selected to demonstrate my contribution while protecting confidential business information.
+Before publishing, I need to confirm that each image exists in the GitHub repository and that its filename and capitalization match the path used below.
+
+Due to company confidentiality policies and information security requirements, I am unable to publicly share the complete SharePoint intranet, internal documentation, device management records, employee information, support tickets, workflows, technical configurations and other organization-specific systems. The evidence presented should demonstrate my contribution while protecting confidential business information.
+
+## Agile Evidence
+
+### Trello Board
+
+![Motivity SharePoint Project Trello board](images/motivity%20sharepoint%20project%20Trello.jpg)
+
+The Trello board is used to organize the Product Backlog, sprint tasks, planning activities and project progress.
+
+The board can provide evidence of:
+
+- Agile planning.
+- Product Backlog management.
+- Sprint planning.
+- Task organization.
+- Progress tracking.
+- Documentation and evidence tracking.
+
+The screenshot should represent the board as it appeared when the evidence was captured. Task statuses may change as the project progresses.
 
 ---
 
-### Agile Evidence
+## SharePoint Development Evidence
 
-#### Trello Board
+### About Us Page
 
-mages/motivity%20sharepoint%20project%20Trello.jpg
-
-The Trello board was used to implement Agile project management practices throughout the SharePoint project. The board contains Product Backlog items, Sprint Backlogs, sprint planning activities, task tracking and project progress monitoring.
-
-The board demonstrates:
-
-- Agile planning
-- Product Backlog management
-- Sprint planning
-- Task allocation
-- Progress tracking
-- Documentation management
-
----
-
-### SharePoint Development Evidence
-
-#### About Us Page
-
-images/About us page.png
+![SharePoint About Us page](<images/About us page.png>)
 
 This SharePoint page demonstrates my involvement in developing and organizing intranet content. My contribution included creating page layouts, organizing content, integrating navigation structures and preparing pages for publication.
 
----
+### Company Opportunities Page
 
-#### Company Opportunities Page
-
-images/Company opportunities page.png
+![SharePoint Company Opportunities page](<images/Company opportunities page.png>)
 
 This page demonstrates my contribution to creating employee-focused content within SharePoint. The page was developed to provide users with structured access to employment opportunities and company information.
 
 Activities included:
 
-- Page configuration
-- Content organization
-- Layout design
-- Navigation integration
-- Publishing activities
+- Page configuration.
+- Content organization.
+- Layout design.
+- Navigation integration.
+- Publishing activities.
 
----
+### Motivity Clients Page
 
-#### Motivity Clients Page
-
-images/Motivity clients Page.png
+![Motivity Clients SharePoint page](<images/Motivity clients Page.png>)
 
 This page demonstrates my involvement in developing content pages and supporting information architecture within the SharePoint environment. The objective was to improve information accessibility and user navigation.
 
 ---
 
-### Device Management System Evidence
+## Device Management System Evidence
 
-images/device-management-system.png
+![Device management system](images/device-management-system.png)
 
-This screenshot demonstrates one of the systems used during device hand-in and asset management activities. As part of my Industry Placement, I assisted with device processing, asset verification, record updates and device preparation activities.
+This screenshot is intended to demonstrate a system used during device hand-in and asset management activities. As part of my Industry Placement, I assisted with device processing, asset verification, record updates and device preparation activities.
 
 The system was used to:
 
-- Track devices
-- Update asset records
-- Verify hand-ins
-- Support device management processes
-- Maintain accurate equipment information
+- Track devices.
+- Update asset records.
+- Verify hand-ins.
+- Support device management processes.
+- Maintain accurate equipment information.
 
-Specific company information, user information and confidential records have been excluded from this portfolio in accordance with company policy.
+Specific company information, user information and confidential records must be excluded from this portfolio in accordance with company policy.
+
+> **GitHub image check:** GitHub only renders an image when the file exists at the referenced path. Check the `images` folder and the exact filename and capitalization before publishing. Do not include confidential company or employee data in screenshots.
 
 ---
 
-### Confidentiality Statement
+## Confidentiality Statement
 
-This portfolio contains only approved project evidence. Internal company information, employee information, confidential documentation, device records, technical support data and restricted SharePoint content have been omitted in accordance with company confidentiality and information security policies. The evidence provided is intended to demonstrate my contribution to the project without exposing sensitive organizational information.
+This portfolio contains only project information and evidence suitable for public sharing. Internal company information, employee information, confidential documentation, device records, technical support data and restricted SharePoint content have been omitted in accordance with company confidentiality and information security policies.
+
+The evidence provided is intended to demonstrate my contribution to the project without exposing sensitive organizational information.
 
 ---
 
@@ -920,7 +998,7 @@ This portfolio contains only approved project evidence. Internal company informa
 
 ## Situation
 
-I started my Industry Placement at Motivity on 1 October 2026 while the SharePoint implementation project was still in its early stages. The project aimed to create a centralized platform that would improve communication, collaboration and document management across the organization.
+I started my Industry Placement at Motivity on 29 September 2026 while the SharePoint implementation project was still in its early stages. The project aimed to create a centralized platform that would improve communication, collaboration and document management across the organization.
 
 ## Task
 
@@ -928,10 +1006,14 @@ My responsibility was to contribute to the SharePoint project while also support
 
 ## Action
 
-I actively participated in the development of SharePoint pages and navigation structures to improve user accessibility and content organization. I worked alongside project team members to support testing activities and maintain project documentation. In addition, I assisted with device hand-ins, software installation, account setup and technical support activities. Throughout the placement I maintained Agile artefacts and project evidence to support project management and portfolio requirements.
+I participated in the development of SharePoint pages and navigation structures to improve user accessibility and content organization. I worked alongside project team members to support testing activities and maintain project documentation. In addition, I assisted with device hand-ins, software installation, account setup and technical support activities. Throughout the placement, I maintained Agile artefacts and project evidence to support project management and portfolio requirements.
 
 ## Result
 
-The placement has provided valuable hands-on experience within a professional ICT environment. Through my involvement in SharePoint development and ICT support activities, I strengthened my technical, communication and problem-solving skills. I gained practical experience with Agile methodologies, enterprise technologies and professional workplace processes, which has improved my readiness for a career in the ICT industry.
+The placement has provided valuable hands-on experience within a professional ICT environment. Through my involvement in SharePoint development and ICT support activities, I have strengthened my technical, communication and problem-solving skills. I have gained practical experience with Agile methodologies, enterprise technologies and professional workplace processes, helping me prepare for a career in the ICT industry.
+
+---
+
+
 
 
