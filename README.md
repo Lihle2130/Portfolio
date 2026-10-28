@@ -978,8 +978,6 @@ Specific company information, employee information and confidential records have
 
 # 22. Confidentiality Statement
 
-This portfolio contains only approved project evidence. Internal company information, employee information, confidential documentation, device records, technical support data and restricted SharePoint content have been omitted in accordance with company confidentiality and information security policies.
-
 The evidence provided is intended to demonstrate my contribution to the project without exposing sensitive organizational information. Additional screenshots and documentation will be included only where sharing them is permitted.
 
 # 23. Motivity Reflection: STAR Method
