@@ -1031,7 +1031,6 @@ Together, these experiences have contributed to my development in the following 
 - Professional responsibility and confidentiality.
 - Balancing academic and professional commitments.
 
-This portfolio will continue to be updated as my Industry Placement progresses. Future updates will reflect verified task completion, additional approved evidence, testing outcomes, feedback and project handover activities.
 
 **Final project status summary:**
 
