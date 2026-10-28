@@ -910,7 +910,8 @@ The evidence presented below is intended to demonstrate my contribution while pr
 
 **Image reference:**
 
-`mages/motivity%20sharepoint%20project%20Trello.jpg`
+![Motivity SharePoint Project](images/Motivity%20Share%20point%20Project.jpg)
+![Motivity SharePoint Project](images/Motivity%20Share%20point%20Project2.jpg)
 
 The Trello board was used to support Agile project management throughout the SharePoint project. It contains Product Backlog items, sprint planning activities, task tracking and project progress information.
 
@@ -929,7 +930,7 @@ The board should be interpreted according to the actual status of each card. A c
 
 **Image reference:**
 
-`images/About us page.png`
+![Motivity SharePoint Project](images/About%20us%20page.png)
 
 This SharePoint page demonstrates my involvement in developing and organizing intranet content. My contribution included creating page layouts, organizing content, integrating navigation structures and preparing pages for publication.
 
@@ -937,7 +938,7 @@ This SharePoint page demonstrates my involvement in developing and organizing in
 
 **Image reference:**
 
-`images/Company opportunities page.png`
+![Motivity SharePoint Project](images/Company%20opportunities%20page.png)
 
 This page demonstrates my contribution to creating employee-focused content within SharePoint. It was developed to provide users with structured access to employment opportunities and company information.
 
@@ -953,7 +954,7 @@ Activities included:
 
 **Image reference:**
 
-`images/Motivity clients Page.png`
+![Motivity SharePoint Project](images/Motivity%20clients%20Page.png)
 
 This page demonstrates my involvement in developing content pages and supporting information architecture within the SharePoint environment. The objective was to improve information accessibility and user navigation.
 
@@ -961,7 +962,7 @@ This page demonstrates my involvement in developing content pages and supporting
 
 **Image reference:**
 
-`images/device-management-system.png`
+![Motivity SharePoint Project](images/IT%20help%20desk.png)
 
 This screenshot demonstrates one of the systems used during device hand-in and asset management activities. During my Industry Placement, I assisted with device processing, asset verification, record updates and device preparation.
 
