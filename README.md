@@ -453,8 +453,8 @@ The following artefacts support the work undertaken during the UniMarket project
 - Product Backlog.
 - Sprint Backlog.
 - Trello board.
-  ![Motivity SharePoint Project](images/Motivity%20unimsarkert.png)
-  The Trello board before i leave
+  ![Motivity SharePoint Project](images/Motivity%20unimarkert.png)
+  Board before I leave
   
 
 # 10. UniMarket Reflection: STAR Method
