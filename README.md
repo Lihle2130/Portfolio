@@ -453,15 +453,9 @@ The following artefacts support the work undertaken during the UniMarket project
 - Product Backlog.
 - Sprint Backlog.
 - Trello board.
-- Agile logbooks.
-- User stories.
-- User interface design screens.
-- Homepage development evidence.
-- Navigation development evidence.
-- Project presentation material.
-- Team collaboration activities.
-
-These artefacts document the planning, development and testing activities undertaken during the project. They should be included where available to support the activities described in this portfolio.
+  ![Motivity SharePoint Project](images/Motivity%20unimsarkert.png)
+  The Trello board before i leave
+  
 
 # 10. UniMarket Reflection: STAR Method
 
@@ -517,7 +511,7 @@ The experience has provided a foundation that I can apply to future academic and
 
 # 12. Project Overview
 
-I started my Industry Placement at Motivity on October 2026. At the time, the SharePoint implementation project was still in its early stages.
+I started my Industry Placement at Motivity on September 2026. At the time, the SharePoint implementation project was still in its early stages.
 
 Working alongside Nkamogeleng Mathabatha and under the project leadership of Mthokozisi Biya, I participated in the planning, design and implementation of the SharePoint environment.
 
@@ -984,7 +978,7 @@ The evidence provided is intended to demonstrate my contribution to the project 
 
 ## 23.1 Situation
 
-I started my Industry Placement at Motivity on 1 October 2026 while the SharePoint implementation project was still in its early stages. The project aimed to create a centralized platform that would improve communication, collaboration and document management across the organization.
+I started my Industry Placement at Motivity on  October 2026 while the SharePoint implementation project was still in its early stages. The project aimed to create a centralized platform that would improve communication, collaboration and document management across the organization.
 
 This placement followed my UniMarket WIL Project, which ran from July 2026 to September 2026. After securing the placement, I had to prioritize my professional responsibilities rather than continue managing both commitments simultaneously.
 
