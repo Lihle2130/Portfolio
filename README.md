@@ -214,11 +214,9 @@ The proposed system was intended to allow users to:
 
 ## 3.6 Communication Methods
 
-- Trello
 - WhatsApp
 - Microsoft Teams
 - Group meetings
-- Sprint discussions
 
 # 4. My Contribution
 
@@ -453,7 +451,7 @@ The following artefacts support the work undertaken during the UniMarket project
 - Product Backlog.
 - Sprint Backlog.
 - Trello board.
-  ![Motivity SharePoint Project](images/Motivity%20unimarkert.png)
+![UniMarket Trello Board](https://github.com/Lihle2130/Portfolio/blob/main/images/unimarkert.png)
   Board before I leave
   
 
